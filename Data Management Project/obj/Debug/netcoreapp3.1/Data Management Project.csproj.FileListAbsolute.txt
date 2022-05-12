@@ -1,0 +1,14 @@
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Data Management Project\bin\Debug\netcoreapp3.1\Data Management Project.exe
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Data Management Project\bin\Debug\netcoreapp3.1\Data Management Project.deps.json
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Data Management Project\bin\Debug\netcoreapp3.1\Data Management Project.runtimeconfig.json
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Data Management Project\bin\Debug\netcoreapp3.1\Data Management Project.runtimeconfig.dev.json
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Data Management Project\bin\Debug\netcoreapp3.1\Data Management Project.dll
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Data Management Project\bin\Debug\netcoreapp3.1\Data Management Project.pdb
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Data Management Project\obj\Debug\netcoreapp3.1\Data Management Project.csproj.AssemblyReference.cache
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Data Management Project\obj\Debug\netcoreapp3.1\Data Management Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Data Management Project\obj\Debug\netcoreapp3.1\Data Management Project.AssemblyInfoInputs.cache
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Data Management Project\obj\Debug\netcoreapp3.1\Data Management Project.AssemblyInfo.cs
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Data Management Project\obj\Debug\netcoreapp3.1\Data Management Project.csproj.CoreCompileInputs.cache
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Data Management Project\obj\Debug\netcoreapp3.1\Data Management Project.dll
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Data Management Project\obj\Debug\netcoreapp3.1\Data Management Project.pdb
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Data Management Project\obj\Debug\netcoreapp3.1\Data Management Project.genruntimeconfig.cache
